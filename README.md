@@ -1,0 +1,2 @@
+# projetoagrinho2024
+COLÉGIO ESTADUAL GEREMIA LUNARDELLI - 2º A
