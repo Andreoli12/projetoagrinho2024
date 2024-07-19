@@ -13,4 +13,6 @@ padding: 24px 0;
 
 .titulo-do-site {
     display: inline-block;
+      margin: 0 16px;
+      font-size: 24px;
 }
