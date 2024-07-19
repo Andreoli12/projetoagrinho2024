@@ -1,0 +1,8 @@
+.cabeçalho {
+    background-color: #2be62b;
+    color: #06135f;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 24px 0;
+}
