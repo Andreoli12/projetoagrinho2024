@@ -1,8 +1,9 @@
 .cabecalho {
-background-color: #1eff00;    
+background-color: #1eff00; 
+
 }
 
 .cabecalho-imagem {
     width: 50%;
-    text-align: center;
+    align-items: center;
 }
