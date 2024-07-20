@@ -1,5 +1,9 @@
-body{
+header{
   background-color: #64cd64;
+  color: #ffffff;
+}
+
+.logo-imagem {
   display: flex;
   justify-content: center;
   align-items: center;
