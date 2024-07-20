@@ -1,3 +1,7 @@
 body{
-  background-color: rgb(35, 194, 35);
+  background-color: linear-gradient(#23c223 , #ffffff);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
 }
