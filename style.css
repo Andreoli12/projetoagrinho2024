@@ -2,6 +2,7 @@
   background-color: #64cd64;
   color: #ffffff;
   display: flex;
+  justify-content: space-around;
 }
 
 .logo-imagem {
