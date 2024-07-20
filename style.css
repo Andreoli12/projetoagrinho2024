@@ -9,7 +9,6 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  padding: 24px 0;
 }
 
 .logo-imagem {
@@ -21,5 +20,5 @@
 }
 
 .NRE {
-  color: #4e79cd;
+  color: #3b60ac;
 }
