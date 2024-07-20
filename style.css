@@ -1,13 +1,10 @@
 .logo{
   background-color: #64cd64;
   color: #ffffff;
+  display: flex;
 }
 
 .logo-imagem {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 24px 0;
   width: 20%;
 }
 
