@@ -5,10 +5,13 @@
 }
 
 .logo-imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
   width: 20%;
 }
 
 .NRE {
   color: #4e79cd;
-  width: 10%;
 }
