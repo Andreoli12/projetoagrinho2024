@@ -25,6 +25,8 @@
 
 .descricao-site {
   background-image: linear-gradient(#64cd64, #ffffff);
+  display: flex;
+  justify-content: center;
 }
 
 .site-imagem-um {
@@ -37,4 +39,8 @@
 
 .site-imagem-tres {
   width: 25%;
+}
+
+.site-div-conteudo {
+  width: 35%;
 }
