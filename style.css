@@ -71,3 +71,9 @@
 .conclusao-do-texto {
   padding: 24px 0;
 }
+
+.titulo-site {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;  
+}
