@@ -22,3 +22,19 @@
 .NRE {
   color: #3b60ac;
 }
+
+.descricao-site {
+  background-image: linear-gradient(#64cd64, #ffffff);
+}
+
+.site-imagem-um {
+  width: 25%;
+}
+
+.site-imagem-dois {
+  width: 25%;
+}
+
+.site-imagem-tres {
+  width: 25%;
+}
