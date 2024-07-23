@@ -116,9 +116,9 @@
   padding: 24px 0;
 }
 
-.profissoes-descricao {
+.profissoes-descricao-div {
   display: flex;
   justify-content: center;
-  align-items: center;
+  text-align: center;
   padding: 24px 0;
 }
