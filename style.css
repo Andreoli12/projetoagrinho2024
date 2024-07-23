@@ -117,8 +117,5 @@
 }
 
 .profissoes-descricao-div {
-  display: flex;
-  justify-content: center;
   text-align: center;
-  padding: 24px 0;
 }
