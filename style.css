@@ -91,3 +91,7 @@
   align-items: center;
   padding: 24px 0;
 }
+
+.profissoes-descricao {
+  display: flex;
+}
