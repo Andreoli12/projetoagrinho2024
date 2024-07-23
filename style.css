@@ -77,3 +77,10 @@
     font-weight: 300;
     font-style: italic;  
 }
+
+.profissao-titulo {
+  font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;  
+    color: #3b60ac;
+}
