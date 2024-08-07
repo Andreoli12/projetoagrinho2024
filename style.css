@@ -99,22 +99,27 @@
 
 .profissao-dois {
   padding: 24px 0;
+  color: orange;
 }
 
 .profissao-tres {
   padding: 24px 0;
+  color: yellow;
 }
 
 .profissao-quatro {
   padding: 24px 0;
+  color: green;
 }
 
 .profissao-cinco {
   padding: 24px 0;
+  color: blue;
 }
 
 .profissao-seis {
   padding: 24px 0;
+  color: magenta;
 }
 
 .profissoes-descricao-div {
