@@ -126,3 +126,10 @@
 .profissoes-descricao-div {
   text-align: center;
 }
+
+footer{
+  background-color: #64cd64;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+}
